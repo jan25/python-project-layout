@@ -1,3 +1,6 @@
 # Python project layout
 
-Few standard python project layout which work best for libraries and works well with VS code.
+Few standard python project layouts which work best for libraries and easy to get started in VS code.
+
+1. [src-layout](./src-layout)
+2. [flat-layout](./flat-layout)
